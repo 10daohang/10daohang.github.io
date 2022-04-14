@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/10daohang/10daohang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content='width=device-width, initial-scale=1.0, user-scalable=0' name='viewport' /> 
+    <title>蜜桃色导航 - MTSDH1.COM</title>
+    <meta http-equiv="Keywords" content="芒果导航最新地址,芒果导航,芒果导航凹凸">
+<meta http-equiv="Description" content="芒果导航地址发布合集：芒果导航、芒果导航秘密入口、芒果导航最新、芒果导航福利、芒果导航精品、芒果导航最新地址等等更多资源等你来发现。">
+    <style type="text/css" media="all">
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        background: #F8F9FA;
+    }
+    a{
+        text-decoration: none;
+    }
+    .main{
+        text-align: center;
+        margin: 200px 0 0 0;
+    }
+    .top{
+        height: 50px;
+        display: inline-block;
+        margin-bottom: 5px;
+    }
+    span.main_1{
+        color: #ED2333;
+        font-size: 40px;
+        line-height: 50px;
+        float: left;
+    }
+    span.main_2{
+        color: #fff;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .foot{
+        width: 500px;
+        background: #fff;
+        margin: 15px auto;
+        padding: 15px 0 30px 0;
+        border-radius: 10px;
+    }
+    span.main_3{
+        margin: 15px 0;
+         display: inline-block;
+         font-weight:bold;
+    }
+    
+    .foot .foot_1 a{
+        font-weight: 500;
+        font-size: 16px;
+        margin-top: 10px;
+        display: inline-block;
+        width: 190px;
+        height: 25px;
+        line-height: 25px;
+        color: #fff;
+        background: #ED2333;
+        padding: 5px 15px;
+        border-radius: 4px;
+    }
+    .box{
+        display: inline-block;
+        background-color: #ED2333;
+        position: relative;
+        top: 10px;
+        /* line-height: 50px; */
+        padding: 4px;
+        border-radius: 4px;
+        float: left;
+    }
+    @media (max-width: 500px){
+    .foot{
+        width: 100%;
+    }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="top"> 
+            <span class="main_1">蜜桃色</span>
+            <div class="box">
+                <span class="main_2">导航</span>
+            </div>
+        </div>
+        <div class="foot">
+            <span class="main_3">已获取到当前最新可用地址</span>
+           <div class="foot_1">
+               <a href="http://mts22.com">立即进入</a>    
+            </div> 
+        </div>
+    </div>
+    <div style="display:none">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/10daohang/10daohang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    </div>
+</body>
+</html>
